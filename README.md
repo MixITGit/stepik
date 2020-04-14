@@ -1,5 +1,4 @@
 # Stepik Courses
 
 ## Courses List:
-1. Web-технологии (https://stepik.org/course/154) 
-		web
+1. web Web-технологии (https://stepik.org/course/154) 
